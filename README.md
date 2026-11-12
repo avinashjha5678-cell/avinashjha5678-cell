@@ -1,4 +1,5 @@
 
+
 # Hi, I'm Avinash Jha 
 
 ### Aspiring Backend Developer
@@ -10,9 +11,6 @@ I'm a B.Tech Computer Science student passionate about building backend applicat
 - Learning backend development and API design
 - Interested in open-source contributions
 - Improving problem-solving skills
-
-
-## Tech Stack
 
 
 ## Tech Stack
