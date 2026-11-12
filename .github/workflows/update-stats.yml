@@ -2,6 +2,9 @@ name: First GitHub Action
 
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
   first-job:
