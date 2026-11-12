@@ -18,6 +18,14 @@ I'm a B.Tech Computer Science student passionate about building backend applicat
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge)
 
 
+## GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=avinashjha5678-cell&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avinashjha5678-cell&layout=compact&theme=tokyonight)
+
+
+
 
 ## Projects
 ### TeamFlow
